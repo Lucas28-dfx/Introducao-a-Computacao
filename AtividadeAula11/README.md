@@ -1,4 +1,5 @@
 ## 1. Diagramas de Topologias
+Aluno: Lucas Alves de Oliveira, 22610456
 # Aula 11 – Redes de Computadores
 
 Este diretório contém os materiais da aula sobre Topologias, Dispositivos e Meios de Transmissão.
@@ -30,4 +31,4 @@ Este diretório contém os materiais da aula sobre Topologias, Dispositivos e Me
 
 A topologia mais adequada para minha residência é a **Estrela**. Como o roteador central gerencia todas as conexões (Wi-Fi e Cabo), a falha de um dispositivo (como um celular ou TV) não interrompe a conexão dos outros. Além disso, é a mais fácil de configurar com os equipamentos domésticos atuais, permitindo adicionar novos dispositivos de forma modular e rápida.
 
-Aluno: Lucas Alves de Oliveira, 22610456
+
