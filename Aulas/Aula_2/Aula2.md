@@ -3,7 +3,7 @@
 
 Resumo e Impacto Social
 
-O filme retrata a invasão de uma central nuclear chinesa por um cibercriminoso que utiliza malwares 
+O filme Blackhat retrata a invasão de uma central nuclear chinesa por um cibercriminoso que utiliza malwares 
 para manipular pressão e causar uma explosão física, evidenciando como a infraestrutura crítica das nações 
 como usinas de energia e mercados financeiros tornou-se o principal campo de batalha da era moderna. A obra 
 destaca que a tecnologia, embora essencial, carrega vulnerabilidades críticas: a fragilidade humana e a dependência 
