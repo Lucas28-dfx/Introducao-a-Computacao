@@ -2,6 +2,14 @@
 
 Este repositório foi criado para armazenar os conteúdos, atividades, exercícios e projetos desenvolvidos durante a disciplina de **Introdução à Computação**.
 
+## 👨‍🎓 Autor
+
+Aluno: **Lucas Alves de Oliveira**
+Curso: Engenharia de Software
+Instituição: UniCEUB
+Disciplina: Introdução à Computação
+
+
 ## 📚 Objetivo
 
 O objetivo desta disciplina é apresentar os conceitos fundamentais da computação, proporcionando uma base sólida para o desenvolvimento de conhecimentos em programação, lógica computacional e tecnologias da informação.
@@ -37,12 +45,6 @@ Durante a disciplina poderão ser utilizadas ferramentas como:
  ┣ 📂 Trabalhos
  ┗ 📜 README.md
 ```
-
-## 👨‍🎓 Autor
-
-**Lucas Alves**
-
-Disciplina: Introdução à Computação
 
 ## 📄 Licença
 
