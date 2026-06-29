@@ -5,9 +5,13 @@ Este repositório foi criado para armazenar os conteúdos, atividades, exercíci
 ## 👨‍🎓 Autor
 
 Aluno: **Lucas Alves de Oliveira**
+
 Curso: Engenharia de Software
+
 Instituição: UniCEUB
+
 Disciplina: Introdução à Computação
+
 
 
 ## 📚 Objetivo
